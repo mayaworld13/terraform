@@ -7,3 +7,8 @@ output "firstoutput_block" {
 output "secondoutput_block"{
     value    = " this is second block"
 }
+
+output "thirdoutput_block"{
+    value = "this is third block"
+    
+}

@@ -24,4 +24,8 @@ output printname {
   value = "${var.username}"
 }
 
+variable school{}
 
+output nameofschool {
+  value = "Your school name is ${var.school}"
+}

@@ -6,4 +6,7 @@
 now if you want to give input variable in non interactive mode then 
 
 ```bash
-terraform plan --schoolname="Mits Gwalior"
+terraform plan -var  "schoolname=Mits Gwalior"
+```
+
+![image](https://github.com/mayaworld13/terraform/assets/127987256/0a4d2e04-6670-42c9-a010-49fffbe34ed5)

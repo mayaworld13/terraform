@@ -1,0 +1,1 @@
+variable schoolname{}  ## it contain only variables
